@@ -23,7 +23,7 @@ I'm passionate about building innovative solutions that solve real-world problem
 ## 💻 Tech Stack
 
 **Languages:**
-- `Kotlin` • `Python` • `JavaScript` • `Java` • `HTML/CSS`
+- `Kotlin` • `Python` • `JavaScript` • `HTML/CSS`
 
 **Mobile & Frontend:**
 - Android Studio • React • HTML5/CSS3 • Tailwind CSS
