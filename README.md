@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-**Full-Stack Developer** | **Android Developer** | **Open Source Enthusiast**
+**Full-Stack Developer** | **Python Developer** | **Open Source Enthusiast**
 
 I'm passionate about building innovative solutions that solve real-world problems. With expertise in mobile development, web applications, and backend systems, I create scalable and user-friendly applications that make a real impact.
 
