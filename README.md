@@ -30,18 +30,17 @@ I'm passionate about building innovative solutions that solve real-world problem
 
 **Languages:**
   
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 **Mobile & Frontend:**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
 
 **Backend & Databases:**
 
@@ -54,7 +53,6 @@ I'm passionate about building innovative solutions that solve real-world problem
 **Tools & Platforms:**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 
