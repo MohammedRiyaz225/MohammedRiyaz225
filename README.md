@@ -1,15 +1,15 @@
 # 👋 Mohammed Riyaz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Android+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <p>
-    <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android"/></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/></a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/></a>
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/></a>
+     <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android"/></a>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/></a>
   </p>
 </div>
