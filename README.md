@@ -9,7 +9,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/></a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/></a>
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/></a>
-     <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android"/></a>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/></a>
   </p>
 </div>
@@ -20,7 +20,7 @@
 
 **Full-Stack Developer** | **Python Developer** | **Open Source Enthusiast**
 
-I'm passionate about building innovative solutions that solve real-world problems. With expertise in mobile development, web applications, and backend systems, I create scalable and user-friendly applications that make a real impact.
+I'm passionate about building innovative solutions that solve real-world problems. With expertise in mobile development, web applications, and backend systems, I create scalable and user-friendly experiences across multiple platforms.
 
 ---
 
@@ -29,7 +29,7 @@ I'm passionate about building innovative solutions that solve real-world problem
 <div align="center">
 
 **Languages:**
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
@@ -67,12 +67,12 @@ I'm passionate about building innovative solutions that solve real-world problem
     <td width="50%">
       <h3 align="center">🤖 AI Chat</h3>
       <p align="center">
-        <strong>Kotlin</strong> • Intelligent chat application with AI capabilities
+        <strong>Kotlin</strong> • Intelligent chat app with AI capabilities
       </p>
       <ul>
-        <li>Real-time messaging system</li>
-        <li>Conversational AI integration</li>
-        <li>Clean architecture implementation</li>
+        <li>Conversational AI workflows</li>
+        <li>Real-time messaging design</li>
+        <li>Modern Android UX</li>
       </ul>
       <p align="center">
         <a href="https://github.com/MohammedRiyaz225/AI-Chat">
@@ -81,17 +81,17 @@ I'm passionate about building innovative solutions that solve real-world problem
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📱 Android Login Screen</h3>
+      <h3 align="center">🧭 ACDYON</h3>
       <p align="center">
-        <strong>Kotlin</strong> • Modern Android authentication UI
+        <strong>CSS</strong> • Creative landing page and brand experience
       </p>
       <ul>
-        <li>Custom Material Design components</li>
-        <li>Form validation & error handling</li>
-        <li>Responsive layout design</li>
+        <li>Modern responsive design</li>
+        <li>Visual-first product showcase</li>
+        <li>Brand-focused UI system</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/Andriod-LoginScreen">
+        <a href="https://github.com/MohammedRiyaz225/ACDYON">
           <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
         </a>
       </p>
@@ -99,67 +99,33 @@ I'm passionate about building innovative solutions that solve real-world problem
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📸 Instagram Clone</h3>
+      <h3 align="center">🧑‍⚕️ Medication Reminder Agent</h3>
       <p align="center">
-        <strong>Kotlin</strong> • Instagram-like social media app
+        <strong>Python</strong> • AI-assisted healthcare reminder system
       </p>
       <ul>
-        <li>Image feed implementation</li>
-        <li>User authentication</li>
-        <li>Post creation & management</li>
+        <li>Medication tracking flow</li>
+        <li>Smart reminders and alerts</li>
+        <li>Health-focused automation</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/Andriod-Studio-Instagram">
+        <a href="https://github.com/MohammedRiyaz225/Medication-Reminder-Agent">
           <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎟️ Event Booking System</h3>
+      <h3 align="center">🎵 MR_Music</h3>
       <p align="center">
-        <strong>Laravel/Blade</strong> • Full-featured event management
+        <strong>TypeScript</strong> • Music streaming and discovery experience
       </p>
       <ul>
-        <li>Event discovery & booking</li>
-        <li>User dashboard & analytics</li>
-        <li>Payment integration</li>
+        <li>Responsive audio UI</li>
+        <li>Playback-focused design</li>
+        <li>Dynamic content presentation</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/EVENT-BOOKING-SYSTEM-EBS-">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Face Identity Verification</h3>
-      <p align="center">
-        <strong>JavaScript</strong> • Facial recognition & identity verification
-      </p>
-      <ul>
-        <li>Real-time face detection</li>
-        <li>Biometric authentication</li>
-        <li>Secure verification protocols</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/Face-Identity-Verification">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🥗 Fresh-Safe</h3>
-      <p align="center">
-        <strong>HTML/CSS</strong> • Food safety & quality tracking
-      </p>
-      <ul>
-        <li>Product freshness monitoring</li>
-        <li>Expiry tracking system</li>
-        <li>Safety compliance features</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/Fresh-Safe">
+        <a href="https://github.com/MohammedRiyaz225/MR_Music">
           <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
         </a>
       </p>
@@ -167,64 +133,14 @@ I'm passionate about building innovative solutions that solve real-world problem
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📋 Resume Builder</h3>
-      <p align="center">
-        <strong>HTML/CSS/JavaScript</strong> • Dynamic resume creation tool
-      </p>
-      <ul>
-        <li>Customizable templates</li>
-        <li>Real-time preview</li>
-        <li>PDF export functionality</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/Resume-Builder">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💊 MediSort</h3>
-      <p align="center">
-        <strong>Python</strong> • Healthcare inventory management
-      </p>
-      <ul>
-        <li>Medication tracking</li>
-        <li>Expiry date alerts</li>
-        <li>Smart inventory analytics</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/MEDI-">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📖 Portfolio</h3>
-      <p align="center">
-        <strong>HTML/CSS/JavaScript</strong> • Personal portfolio website
-      </p>
-      <ul>
-        <li>Project showcase</li>
-        <li>Skills display</li>
-        <li>Contact integration</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/Portfolio225">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚗 Travel Safety Bot</h3>
+      <h3 align="center">🛡️ Travel Safety Bot</h3>
       <p align="center">
         <strong>Python</strong> • AI-powered travel safety assistant
       </p>
       <ul>
         <li>Real-time safety alerts</li>
-        <li>Route optimization</li>
-        <li>Emergency assistance integration</li>
+        <li>Route and risk awareness</li>
+        <li>Emergency assistance logic</li>
       </ul>
       <p align="center">
         <a href="https://github.com/MohammedRiyaz225/Travel-Safety-Bot">
@@ -232,36 +148,18 @@ I'm passionate about building innovative solutions that solve real-world problem
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3 align="center">🛒 ShopSmart</h3>
+      <h3 align="center">📁 Portfolio225</h3>
       <p align="center">
-        <strong>CSS/JavaScript</strong> • E-commerce platform frontend
+        <strong>HTML</strong> • Personal portfolio and project showcase
       </p>
       <ul>
-        <li>Product catalog</li>
-        <li>Shopping cart system</li>
-        <li>Responsive design</li>
+        <li>Professional profile layout</li>
+        <li>Project highlighting</li>
+        <li>Clean portfolio presentation</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/shopsmart">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔐 SIGS</h3>
-      <p align="center">
-        <strong>Python</strong> • Security & identity management system
-      </p>
-      <ul>
-        <li>User authentication</li>
-        <li>Role-based access control</li>
-        <li>Security protocols</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/MohammedRiyaz225/SIGS">
+        <a href="https://github.com/MohammedRiyaz225/Portfolio225">
           <img src="https://img.shields.io/badge/View%20Repository-181717?logo=github&logoColor=white&style=flat-square" />
         </a>
       </p>
@@ -320,11 +218,11 @@ I'm passionate about building innovative solutions that solve real-world problem
 ---
 
 <div align="center">
-  
+
   ⭐️ If you find my work helpful, consider giving my repositories a star!
-  
+
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MohammedRiyaz225)
-  
+
   **Made with ❤️ by Mohammed Riyaz**
-  
+
 </div>
