@@ -204,13 +204,13 @@ I'm passionate about building innovative solutions that solve real-world problem
   <a href="https://github.com/MohammedRiyaz225" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mohammedriyaz2250@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-riyaz-26/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://x.com/Mohammed_Riyaz5" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
   </a>
 </div>
