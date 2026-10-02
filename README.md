@@ -188,10 +188,10 @@ I'm passionate about building innovative solutions that solve real-world problem
 
 | Skill | Proficiency |
 |-------|------------|
-| **Full-Stack Development** | ⭐⭐⭐⭐⭐ |
-| **Mobile Development** | ⭐⭐⭐⭐⭐ |
+| **Full-Stack Development** | ⭐⭐⭐⭐ |
+| **Mobile Development** | ⭐⭐⭐⭐ |
 | **System Design** | ⭐⭐⭐⭐ |
-| **Problem Solving** | ⭐⭐⭐⭐⭐ |
+| **Problem Solving** | ⭐⭐⭐⭐ |
 | **Open Source** | ⭐⭐⭐⭐ |
 
 </div>
