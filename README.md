@@ -55,7 +55,7 @@
       </div>
       <div style="margin-top:20px; padding-top:10px; border-top: 1px solid rgba(88, 163, 255, 0.3);">
         <p style="margin: 8px 0; color:#d6efff; font-size:14px;">📍 India</p>
-        <p style="margin: 8px 0; color:#d6efff; font-size:14px;">📧 <a href="mailto:riyazmohammed225@gmail.com" style="color:#7ae3ff; text-decoration:none;">riyazmohammed225@gmail.com</a></p>
+        <p style="margin: 8px 0; color:#d6efff; font-size:14px;">📧 <a href="mailto:riyazmohammed225@gmail.com" style="color:#7ae3ff; text-decoration:none;">mohammedriyaz2250@gmail.com</a></p>
         <p style="margin: 8px 0; color:#d6efff; font-size:14px;">🔗 <a href="https://github.com/MohammedRiyaz225" style="color:#7ae3ff; text-decoration:none;">github.com/MohammedRiyaz225</a></p>
         <p style="margin: 8px 0; color:#d6efff; font-size:14px;">💼 <a href="https://linkedin.com/in/mohammed-riyaz-225" style="color:#7ae3ff; text-decoration:none;">linkedin.com/in/mohammed-riyaz-225</a></p>
       </div>
