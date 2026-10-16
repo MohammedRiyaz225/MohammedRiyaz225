@@ -1,30 +1,5 @@
 # 👋 Hi, I'm Mohammed Riyaz
 
-<div align="center">
-
-<table role="presentation" width="100%">
-  <tr>
-    <td align="center" width="40%">
-      <img alt="Mohammed Riyaz" src="https://avatars.githubusercontent.com/u/111334618?v=4" width="140" style="border-radius:50%" />
-      
-      
-      <p align="center">
-        <strong>Full‑Stack Developer • Mobile & Backend Engineer • Open Source Enthusiast</strong>
-      </p>
-    </td>
-    <td align="center" width="60%">
-      <!-- Robot + Typing intro card -->
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/robot.svg" alt="robot" width="120" style="opacity:0.95;" />
-
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&width=540&lines=Hi%2C+I%27m+Mohammed+Riyaz+%F0%9F%91%8B;I+build+mobile+apps%2C+web+apps%2C+and+scalable+backends;Open+source+lover+%26+collaborator;Let%27s+build+something+great+together!" alt="typing" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 ## ⚡ Quick Overview
@@ -33,12 +8,6 @@
 - 🌱 Learning advanced system design & distributed systems.
 - 🛠️ Comfortable with Python, Kotlin, TypeScript, React, FastAPI and Node.js.
 - ❤️ Open source contributor and mentor for beginner-friendly projects.
-
----
-
-## 💡 Robot Assistant — "RoboIntro"
-
-Meet RoboIntro: a little README helper (visual) that introduces me in a friendly way. It appears as the robot image beside the typing message above — no scripts required (works within GitHub README). If you'd like, I can make this robot speak more lines or change its style.
 
 ---
 
