@@ -1,7 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #030b1a 0%, #071529 25%, #0c1833 65%, #120d2d 100%); border: 1px solid rgba(103, 190, 255, 0.7); border-radius: 28px; padding: 24px 30px 18px; box-shadow: inset 0 0 18px rgba(60, 180, 255, 0.15), 0 0 32px rgba(64, 136, 255, 0.25);">
   <div align="center" style="display:flex; justify-content:center; align-items:center; gap:28px;">
     <div style="width: 25%; min-width: 160px; text-align: center;">
-      <img src="https://avatars.githubusercontent.com/u/111334618?v=4" width="170" height="170" alt="Mohammed Riyaz" style="border-radius: 50%; border: 4px solid #57d1ff; box-shadow: 0 0 30px rgba(87, 209, 255, 0.8); background: #081426;" />
     </div>
     <div style="text-align:center; flex:1;">
       <h1 style="margin:0; font-size:58px; line-height:0.95; color:#f2edf9; font-weight:700; font-family:Georgia, 'Times New Roman', serif; letter-spacing:1px; text-shadow: 0 0 18px rgba(140, 120, 255, 0.65);">
@@ -70,115 +69,6 @@
           <span style="font-size:26px;">✨</span> Featured Projects
         </h3>
         <p style="margin:-6px 0 18px; color:#9ec9e9; font-size:16px;">Some of my best work</p>
-
-        <table width="100%" cellpadding="8" cellspacing="10">
-          <tr>
-            <td width="33%" style="background: linear-gradient(135deg, rgba(27, 31, 91, 0.8), rgba(51, 31, 98, 0.85)); border:1px solid rgba(78,197,255,0.7); border-radius: 18px; padding: 14px; box-shadow: 0 0 18px rgba(88, 143, 255, 0.2);">
-              <div style="height:110px; border-radius: 12px; background: linear-gradient(135deg, #1d2247, #0d6fb4 40%, #7f2cff 100%); display:flex; align-items:center; justify-content:center; color:#fff; font-size:42px;">💊</div>
-              <h4 style="margin: 12px 0 8px; font-size: 22px; color:#e8f7ff;">MediSort</h4>
-              <p style="margin:0; color:#dfefff; font-size:14px; line-height:1.5;">AI-powered Smart Medicine Inventory & Expiry Tracker</p>
-              <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:6px;">
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Python</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Tkinter</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">SQLite</span>
-              </div>
-              <div align="center" style="margin-top:16px;"><a href="https://github.com/MohammedRiyaz225/MEDI-" style="display:inline-block; color:#dffaff; text-decoration:none; background: rgba(38,121,177,0.4); border:1px solid rgba(116, 228, 255, 0.75); border-radius:12px; padding:8px 16px; font-weight:700;">View Project →</a></div>
-            </td>
-            <td width="33%" style="background: linear-gradient(135deg, rgba(27, 31, 91, 0.8), rgba(51, 31, 98, 0.85)); border:1px solid rgba(78,197,255,0.7); border-radius: 18px; padding: 14px; box-shadow: 0 0 18px rgba(88, 143, 255, 0.2);">
-              <div style="height:110px; border-radius: 12px; background: linear-gradient(135deg, #242343, #1a7d91 40%, #54e9d1 100%); display:flex; align-items:center; justify-content:center; color:#fff; font-size:42px;">🧑‍💻</div>
-              <h4 style="margin: 12px 0 8px; font-size: 22px; color:#e8f7ff;">Face Identity Verification</h4>
-              <p style="margin:0; color:#dfefff; font-size:14px; line-height:1.5;">Webcam-based face verification with database matching</p>
-              <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:6px;">
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Python</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Flask</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">MongoDB</span>
-              </div>
-              <div align="center" style="margin-top:16px;"><a href="https://github.com/MohammedRiyaz225/Face-Identity-Verification" style="display:inline-block; color:#dffaff; text-decoration:none; background: rgba(38,121,177,0.4); border:1px solid rgba(116, 228, 255, 0.75); border-radius:12px; padding:8px 16px; font-weight:700;">View Project →</a></div>
-            </td>
-            <td width="33%" style="background: linear-gradient(135deg, rgba(27, 31, 91, 0.8), rgba(51, 31, 98, 0.85)); border:1px solid rgba(78,197,255,0.7); border-radius: 18px; padding: 14px; box-shadow: 0 0 18px rgba(88, 143, 255, 0.2);">
-              <div style="height:110px; border-radius: 12px; background: linear-gradient(135deg, #441f5e, #9a3d9b 40%, #ff8a80 100%); display:flex; align-items:center; justify-content:center; color:#fff; font-size:42px;">🥬</div>
-              <h4 style="margin: 12px 0 8px; font-size: 22px; color:#e8f7ff;">Fresh &amp; Safe</h4>
-              <p style="margin:0; color:#dfefff; font-size:14px; line-height:1.5;">Fresh produce e-commerce with secure checkout</p>
-              <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:6px;">
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">HTML</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">CSS</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">JavaScript</span>
-              </div>
-              <div align="center" style="margin-top:16px;"><a href="https://github.com/MohammedRiyaz225/Fresh-Safe" style="display:inline-block; color:#dffaff; text-decoration:none; background: rgba(38,121,177,0.4); border:1px solid rgba(116, 228, 255, 0.75); border-radius:12px; padding:8px 16px; font-weight:700;">View Project →</a></div>
-            </td>
-          </tr>
-          <tr>
-            <td width="33%" style="background: linear-gradient(135deg, rgba(27, 31, 91, 0.8), rgba(51, 31, 98, 0.85)); border:1px solid rgba(78,197,255,0.7); border-radius: 18px; padding: 14px; box-shadow: 0 0 18px rgba(88, 143, 255, 0.2);">
-              <div style="height:110px; border-radius: 12px; background: linear-gradient(135deg, #2f2b6a, #9f2d92 50%, #f13d78 100%); display:flex; align-items:center; justify-content:center; color:#fff; font-size:42px;">🎫</div>
-              <h4 style="margin: 12px 0 8px; font-size: 22px; color:#e8f7ff;">Event Booking System</h4>
-              <p style="margin:0; color:#dfefff; font-size:14px; line-height:1.5;">Book events, manage tickets, and track attendance</p>
-              <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:6px;">
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Laravel</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">PHP</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">MySQL</span>
-              </div>
-              <div align="center" style="margin-top:16px;"><a href="https://github.com/MohammedRiyaz225/EVENT-BOOKING-SYSTEM-EBS-" style="display:inline-block; color:#dffaff; text-decoration:none; background: rgba(38,121,177,0.4); border:1px solid rgba(116, 228, 255, 0.75); border-radius:12px; padding:8px 16px; font-weight:700;">View Project →</a></div>
-            </td>
-            <td width="33%" style="background: linear-gradient(135deg, rgba(27, 31, 91, 0.8), rgba(51, 31, 98, 0.85)); border:1px solid rgba(78,197,255,0.7); border-radius: 18px; padding: 14px; box-shadow: 0 0 18px rgba(88, 143, 255, 0.2);">
-              <div style="height:110px; border-radius: 12px; background: linear-gradient(135deg, #1d2c40, #0ea8c7 40%, #8ef2ff 100%); display:flex; align-items:center; justify-content:center; color:#fff; font-size:42px;">🧠</div>
-              <h4 style="margin: 12px 0 8px; font-size: 22px; color:#e8f7ff;">Focus Lens</h4>
-              <p style="margin:0; color:#dfefff; font-size:14px; line-height:1.5;">AI productivity app with focus monitoring and adaptive feedback</p>
-              <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:6px;">
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">TypeScript</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">AI</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Webcam</span>
-              </div>
-              <div align="center" style="margin-top:16px;"><a href="https://github.com/MohammedRiyaz225/Focus-Lens" style="display:inline-block; color:#dffaff; text-decoration:none; background: rgba(38,121,177,0.4); border:1px solid rgba(116, 228, 255, 0.75); border-radius:12px; padding:8px 16px; font-weight:700;">View Project →</a></div>
-            </td>
-            <td width="33%" style="background: linear-gradient(135deg, rgba(27, 31, 91, 0.8), rgba(51, 31, 98, 0.85)); border:1px solid rgba(78,197,255,0.7); border-radius: 18px; padding: 14px; box-shadow: 0 0 18px rgba(88, 143, 255, 0.2);">
-              <div style="height:110px; border-radius: 12px; background: linear-gradient(135deg, #4f3655, #9a5dd3 50%, #1be6ff 100%); display:flex; align-items:center; justify-content:center; color:#fff; font-size:42px;">🎯</div>
-              <h4 style="margin: 12px 0 8px; font-size: 22px; color:#e8f7ff;">Travel Safety Bot</h4>
-              <p style="margin:0; color:#dfefff; font-size:14px; line-height:1.5;">Smart travel safety assistant for real-world assistance</p>
-              <div style="margin-top:12px; display:flex; flex-wrap:wrap; gap:6px;">
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Python</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">AI</span>
-                <span style="background: rgba(45,75,160,0.8); padding:4px 8px; border-radius:999px; font-size:11px; color:#dfefff;">Bot</span>
-              </div>
-              <div align="center" style="margin-top:16px;"><a href="https://github.com/MohammedRiyaz225/Travel-Safety-Bot" style="display:inline-block; color:#dffaff; text-decoration:none; background: rgba(38,121,177,0.4); border:1px solid rgba(116, 228, 255, 0.75); border-radius:12px; padding:8px 16px; font-weight:700;">View Project →</a></div>
-            </td>
-          </tr>
-        </table>
-      </div>
-
-      <div style="margin-top:20px; background: linear-gradient(180deg, rgba(8, 14, 28, 0.9), rgba(9, 21, 31, 0.92)); border:1px solid rgba(80,194,255,0.8); border-radius: 22px; padding:18px 16px 12px; box-shadow: inset 0 0 18px rgba(69, 127, 255, 0.12);">
-        <table width="100%" cellpadding="8" cellspacing="0">
-          <tr valign="top">
-            <td width="50%">
-              <h3 style="margin:0 0 16px; color:#eaf7ff; font-size: 26px; font-weight: 700;">Tech Stack</h3>
-              <div style="display:flex; flex-wrap:wrap; gap:10px;">
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">Python</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">JavaScript</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">React</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">Node.js</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">MySQL</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">MongoDB</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">PHP</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">HTML</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">CSS</span>
-                <span style="background: rgba(39,67,171,0.8); border:1px solid rgba(128,220,255,0.7); color:#e6fbff; padding:8px 12px; border-radius: 12px; font-size:12px; font-weight:700;">Git</span>
-              </div>
-            </td>
-            <td width="50%">
-              <h3 style="margin:0 0 16px; color:#eaf7ff; font-size: 26px; font-weight: 700;">Current Learning</h3>
-              <div style="padding: 12px 14px; background: rgba(14, 35, 52, 0.8); border:1px solid rgba(122,221,255,0.6); border-radius: 14px;">
-                <p style="margin:0 0 8px; color:#dff0ff; font-weight:700;">AI &amp; Machine Learning</p>
-                <div style="height:10px; border-radius: 10px; background: rgba(255,255,255,0.08); overflow:hidden;">
-                  <div style="width:70%; height:100%; background: linear-gradient(90deg, #2af598, #009efd); border-radius: inherit;"></div>
-                </div>
-                <p style="margin:10px 0 0; color:#cfe7ff; font-size:12px;">70% progress</p>
-              </div>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <div align="center" style="margin: 22px 0 12px; color:#ccf2ff; font-weight:700; font-size: 18px; font-style: italic;">
   Built with <span style="color:#ff4d8d;">❤</span> by Mohammed Riyaz
