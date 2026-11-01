@@ -1,78 +1,105 @@
-<!--
-  Profile README for MohammedRiyaz225
-  Keep this file at the root of the repository named MohammedRiyaz225.
--->
-
 <div align="center">
 
-# Mohammed Riyaz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=230&section=header&text=Mohammed%20Riyaz&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder&descAlignY=60&descSize=18" width="100%" alt="Mohammed Riyaz profile banner" />
 
-### Full-Stack Developer · AI & Practical Software
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+useful+software;Exploring+AI+and+computer+vision;Learning+by+making+real+projects" alt="Animated introduction" />
+</a>
 
-**Turning ideas into useful, real-world applications.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-MohammedRiyaz225-181717?style=for-the-badge&logo=github)](https://github.com/MohammedRiyaz225)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammed-riyaz-225)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyazmohammed225@gmail.com)
+<p>
+  <a href="https://github.com/MohammedRiyaz225">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://linkedin.com/in/mohammed-riyaz-225">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:riyazmohammed225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammed Riyaz" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About
+## 👋 About me
 
-I’m a **B.Tech (Lateral Entry) Computer Science student in India** who enjoys building full-stack applications and exploring practical uses of AI. I like taking an idea from its first sketch through implementation and refinement.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 🔭 Building **MediSort**, a medicine-strip recognition and information project
-- 🌱 Learning more about **AI, machine learning, and thoughtful product design**
-- 💬 Interested in **web development, Python, and software projects with real-world use**
-- 📍 Based in **India**
+I’m a **Computer Science student pursuing B.Tech through lateral entry**, based in India. I enjoy building full-stack applications and exploring practical uses of AI.
 
-## Tools I use
+I like the complete process: understanding a problem, designing a solution, building it, and improving it through hands-on work.
+
+- 🔭 Working on **MediSort**, a medicine-strip recognition project
+- 🌱 Exploring **machine learning, computer vision, and application development**
+- 💡 Interested in software that solves practical problems
+- 📍 India
+
+</td>
+<td width="42%" valign="top">
+
+### Currently exploring
+
+🧠 **Machine learning**  
+📷 **Computer vision**  
+🌐 **Full-stack development**  
+🛠️ **Building practical projects**
+
+</td>
+</tr>
+</table>
+
+## 🧰 Technologies
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,javascript,java,php,react,nodejs,mysql,git&theme=dark" alt="Python, JavaScript, Java, PHP, React, Node.js, MySQL, and Git" />
 
 </div>
 
-## Featured project
+## 🚀 Featured project
 
-### 💊 [MediSort](https://github.com/MohammedRiyaz225/MEDI-)
+<table>
+<tr>
+<td width="100%">
+
+### 💊 MediSort
 
 A medicine-strip recognition project combining computer vision and text extraction to help organize information from medicine packaging.
 
-**Focus:** Python · YOLO · OCR · spaCy
+**Project focus:** Python · YOLO · OCR · spaCy
 
-[View the repository →](https://github.com/MohammedRiyaz225/MEDI-)
+[![Open MediSort repository](https://img.shields.io/badge/Explore-MediSort-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedRiyaz225/MEDI-)
 
-## GitHub
+</td>
+</tr>
+</table>
+
+## 📊 GitHub at a glance
 
 <div align="center">
 
-[![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&hide_border=true&title_color=0F766E&icon_color=F59E0B&text_color=334155&bg_color=FFFFFF)](https://github.com/MohammedRiyaz225)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&hide_border=true&title_color=0F766E&text_color=334155&bg_color=FFFFFF)](https://github.com/MohammedRiyaz225)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&hide_border=true&rank_icon=github&title_color=2DD4BF&icon_color=F59E0B&text_color=C9D1D9&bg_color=0D1117" alt="GitHub contribution statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&hide_border=true&title_color=2DD4BF&text_color=C9D1D9&bg_color=0D1117" alt="Most used programming languages" />
 
 </div>
 
-## Let’s connect
-
-I’m happy to connect about software, collaboration, and ideas worth building.
-
-- **Email:** [riyazmohammed225@gmail.com](mailto:riyazmohammed225@gmail.com)
-- **LinkedIn:** [mohammed-riyaz-225](https://linkedin.com/in/mohammed-riyaz-225)
-- **GitHub:** [@MohammedRiyaz225](https://github.com/MohammedRiyaz225)
-
----
+## 🤝 Connect with me
 
 <div align="center">
 
+**Have an idea, project, or opportunity to discuss? Let’s connect.**
+
+[GitHub](https://github.com/MohammedRiyaz225) ·
+[LinkedIn](https://linkedin.com/in/mohammed-riyaz-225) ·
+[Email](mailto:riyazmohammed225@gmail.com)
+
+<br />
+
 *Keep learning. Keep building.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0F172A&height=100&section=footer" width="100%" alt="" />
 
 </div>
