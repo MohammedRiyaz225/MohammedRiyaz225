@@ -119,55 +119,131 @@ I enjoy working across the development stack, from designing interactive user in
 
 </div>
 
----
 
 ## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💊 MediSort</h3>
+
+AI-powered medicine inventory and expiry tracker with OCR-based medicine scanning and inventory management.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
 <a href="https://github.com/MohammedRiyaz225/MEDI-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=MEDI-&theme=tokyonight&hide_border=true&show_owner=true" alt="MEDI- project card"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>👁️ FocusLens</h3>
+
+A privacy-focused productivity application that uses computer vision to estimate visual attention and adapt focus sessions.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
 
 <a href="https://github.com/MohammedRiyaz225/Focus-Lens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Focus-Lens&theme=tokyonight&hide_border=true&show_owner=true" alt="Focus-Lens project card"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏨 Lovely Hostel Assist</h3>
+
+A hostel assistance project designed to simplify hostel-related services and improve the student experience.
+
+<img src="https://img.shields.io/badge/PROJECT-Development-0EA5E9?style=flat-square"/>
 
 <a href="https://github.com/MohammedRiyaz225/Lovely-Hostel-Assist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Lovely-Hostel-Assist&theme=tokyonight&hide_border=true&show_owner=true" alt="Lovely-Hostel-Assist project card"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⏰ Medication Reminder Agent</h3>
+
+A medication reminder project focused on helping users manage their medication schedules and reminders.
+
+<img src="https://img.shields.io/badge/PROJECT-Development-0EA5E9?style=flat-square"/>
 
 <a href="https://github.com/MohammedRiyaz225/Medication-Reminder-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Medication-Reminder-Agent&theme=tokyonight&hide_border=true&show_owner=true" alt="Medication-Reminder-Agent project card"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎟️ Event Booking System</h3>
+
+An event booking application for browsing events, booking tickets, and managing event-related operations.
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
 <a href="https://github.com/MohammedRiyaz225/EVENT-BOOKING-SYSTEM-EBS-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=EVENT-BOOKING-SYSTEM-EBS-&theme=tokyonight&hide_border=true&show_owner=true" alt="EVENT-BOOKING-SYSTEM-EBS- project card"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+<h3>⚡ More Coming Soon</h3>
+
+Always experimenting, building, and learning.
+
+<img src="https://img.shields.io/badge/BUILDING_THE_FUTURE-020617?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
+
+
 
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats"/>
+### 📈 GitHub Performance
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRiyaz225&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph"/>
+### 🔥 Contribution Streak
 
-<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=MohammedRiyaz225&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Contribution Streak"/>
 
-<img src="https://streak-stats.demolab.com?user=MohammedRiyaz225&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+<br/><br/>
+
+### 🌐 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRiyaz225&bg_color=0d1117&color=5eead4&line=14b8a6&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
+
 
 ## 🐍 CONTRIBUTION SNAKE
 
