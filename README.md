@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:134E4A,100:06B6D4&height=230&section=header&text=Mohammed%20Riyaz&fontSize=52&fontColor=FFFFFF&animation=twin[..." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:134E4A,100:06B6D4&height=230&section=header&text=Mohammed%20Riyaz&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descSize=17&descAlignY=60&descColor=99F6E4"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Computer+Vision+%F0%9F%92%A1;Code.+Create.+Innovate.+Repeat." alt="Typing SVG"/>
 
 <br/>
 
@@ -21,7 +21,6 @@
 <img src="https://komarev.com/ghpvc/?username=MohammedRiyaz225&label=PROFILE+VIEWS&color=14B8A6&style=for-the-badge" />
 
 </div>
-
 
 ---
 
@@ -90,34 +89,33 @@ I enjoy working across the development stack, from designing interactive user in
 
 ---
 
-
 ## ⚡ MY TECH ARSENAL
 
 <div align="center">
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,kotlin,c"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,kotlin,c" alt="Programming languages"/>
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend tools"/>
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" alt="Backend tools"/>
 
 ### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase" alt="Database and cloud tools"/>
 
 ### AI & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" alt="AI and computer vision tools"/>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,androidstudio,figma" alt="Development tools"/>
 
 </div>
 
@@ -128,23 +126,23 @@ I enjoy working across the development stack, from designing interactive user in
 <div align="center">
 
 <a href="https://github.com/MohammedRiyaz225/MEDI-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=MEDI-&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=MEDI-&theme=tokyonight&hide_border=true&show_owner=true" alt="MEDI- project card"/>
 </a>
 
 <a href="https://github.com/MohammedRiyaz225/Focus-Lens">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Focus-Lens&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Focus-Lens&theme=tokyonight&hide_border=true&show_owner=true" alt="Focus-Lens project card"/>
 </a>
 
 <a href="https://github.com/MohammedRiyaz225/Lovely-Hostel-Assist">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Lovely-Hostel-Assist&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Lovely-Hostel-Assist&theme=tokyonight&hide_border=true&show_owner=true" alt="Lovely-Hostel-Assist project card"/>
 </a>
 
 <a href="https://github.com/MohammedRiyaz225/Medication-Reminder-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Medication-Reminder-Agent&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=Medication-Reminder-Agent&theme=tokyonight&hide_border=true&show_owner=true" alt="Medication-Reminder-Agent project card"/>
 </a>
 
 <a href="https://github.com/MohammedRiyaz225/EVENT-BOOKING-SYSTEM-EBS-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=EVENT-BOOKING-SYSTEM-EBS-&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedRiyaz225&repo=EVENT-BOOKING-SYSTEM-EBS-&theme=tokyonight&hide_border=true&show_owner=true" alt="EVENT-BOOKING-SYSTEM-EBS- project card"/>
 </a>
 
 </div>
@@ -155,17 +153,17 @@ I enjoy working across the development stack, from designing interactive user in
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRiyaz225&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRiyaz225&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=MohammedRiyaz225&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MohammedRiyaz225&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
 </div>
 
