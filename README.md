@@ -7,6 +7,11 @@
 </a>
 
 <br />
+## 🎬 Meet me
+
+[![Watch my introduction](https://img.shields.io/badge/▶%20Watch%20my%20introduction-0F766E?style=for-the-badge)](VIDEO_LINK)
+
+<br/>
 
 <a href="https://github.com/MohammedRiyaz225">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
