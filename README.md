@@ -58,7 +58,7 @@ I enjoy working across the development stack, from designing interactive user in
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
+<img width="100%" src="Developer Mindset Neon Workspace.png"alt="Developer coding animation"/>
 
 ### 💡 Developer Mindset
 
