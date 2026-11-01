@@ -106,17 +106,6 @@ An assistant for medication schedules and adherence tracking, with cloud, local-
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ Event Booking System
-
-A web app for browsing events, booking tickets, managing availability, and handling bookings through an admin dashboard.
-
-**Laravel · Tailwind CSS · SQLite**
-
-[Open project →](https://github.com/MohammedRiyaz225/EVENT-BOOKING-SYSTEM-EBS-)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🧭 Explore more
 
 I also build Android, AI, and web application projects. Browse them all on my [repositories page](https://github.com/MohammedRiyaz225?tab=repositories).
@@ -138,7 +127,6 @@ I also build Android, AI, and web application projects. Browse them all on my [r
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
