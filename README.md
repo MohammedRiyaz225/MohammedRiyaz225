@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:14B8A6&height=240&section=header&text=Mohammed%20Riyaz&fontSize=50&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20Android%20Developer&descAlignY=60&descSize=16" width="100%" alt="Animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:134E4A,100:14B8A6&height=240&section=header&text=Mohammed%20Riyaz&fontSize=50&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20ANDROID%20DEVELOPER&descAlignY=60&descSize=16" width="100%" alt="Animated profile banner" />
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=I+build+software+for+real-world+problems;Exploring+AI%2C+computer+vision%2C+and+web+development;Learning+something+new+with+every+project" alt="Animated profile introduction" />
