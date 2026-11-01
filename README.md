@@ -224,25 +224,38 @@ Always experimenting, building, and learning.
 
 ### 📈 GitHub Performance
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammedRiyaz225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<a href="https://github.com/MohammedRiyaz225">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MohammedRiyaz225&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/MohammedRiyaz225">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohammedRiyaz225&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
 ### 🔥 Contribution Streak
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MohammedRiyaz225&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=MohammedRiyaz225&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 <br/><br/>
 
 ### 🌐 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedRiyaz225&bg_color=0d1117&color=5eead4&line=14b8a6&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" alt="GitHub Activity Graph"/>
+<a href="https://github.com/MohammedRiyaz225">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedRiyaz225&theme=tokyonight" alt="GitHub Contribution Activity"/>
+</a>
+
+<br/><br/>
+
+### 💻 Language & Repository Statistics
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedRiyaz225&theme=tokyonight" alt="Most Used Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohammedRiyaz225&theme=tokyonight" alt="GitHub Summary Statistics"/>
 
 </div>
 
 ---
+
 
 
 ## 🐍 CONTRIBUTION SNAKE
@@ -250,16 +263,6 @@ Always experimenting, building, and learning.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=MohammedRiyaz225&color_snake=#14B8A6&color_dots=#5EEAD4,#2DD4BF,#14B8A6,#0F766E,#115E59" alt="Contribution Snake Animation"/>
-
-</div>
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedRiyaz225&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
