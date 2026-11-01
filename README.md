@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:134E4A,100:06B6D4&height=230&section=header&text=Mohammed%20Riyaz&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20BUILDER&descSize=17&descAlignY=60&descColor=99F6E4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:134E4A,100:06B6D4&height=230&section=header&text=Mohammed%20Riyaz&fontSize=52&fontColor=FFFFFF&animation=twin[..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Computer+Vision+%7C+Machine+Learning;Code.+Create.+Innovate.+Repeat." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality+%F0%9F[...]" />
 
 <br/>
 
@@ -176,7 +175,7 @@ I enjoy working across the development stack, from designing interactive user in
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohammedRiyaz225/MohammedRiyaz225/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=MohammedRiyaz225&color_snake=#14B8A6&color_dots=#5EEAD4,#2DD4BF,#14B8A6,#0F766E,#115E59" alt="Contribution Snake Animation"/>
 
 </div>
 
@@ -186,7 +185,7 @@ I enjoy working across the development stack, from designing interactive user in
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedRiyaz225&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedRiyaz225&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
