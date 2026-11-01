@@ -12,10 +12,10 @@
 <a href="https://github.com/MohammedRiyaz225">
   <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/mohammed-riyaz-225">
+<a href="https://www.linkedin.com/in/mohammed-riyaz-26y/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="mailto:riyazmohammed225@gmail.com">
+<a href="mailto:mohammedriyaz2250@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
