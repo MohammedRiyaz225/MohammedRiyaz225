@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&lines=I+build+software+for+real-world+problems;Exploring+AI%2C+computer+vision%2C+and+web+development;Learning+something+new+with+every+project" alt="Animated profile introduction" />
 </a>
 
-<br />
-## 🎬 Meet me
-
-[![Watch my introduction](https://img.shields.io/badge/▶%20Watch%20my%20introduction-0F766E?style=for-the-badge)](VIDEO_LINK)
 
 <br/>
 
