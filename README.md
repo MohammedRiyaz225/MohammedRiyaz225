@@ -56,6 +56,9 @@ I'm a Computer Science student passionate about building technology that solves 
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="62%" valign="top">
 ### ⚡ Quick Developer Snapshot
 
 | Category | Details |
@@ -66,12 +69,17 @@ I'm a Computer Science student passionate about building technology that solves 
 | 🧠 Interests | AI, ML, Computer Vision |
 | 🌐 Development | Web & Android |
 | ⚡ Philosophy | Build. Learn. Improve. |
+</td>
+<td width="38%" align="center" valign="middle">
 
 ### 🎯 What Drives Me
 
 <img src="https://img.shields.io/badge/Problem_Solving-Active-14B8A6?style=flat-square"/>
 <img src="https://img.shields.io/badge/Continuous_Learning-Always-0EA5E9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Innovation-In_Progress-8B5CF6?style=flat-square"/>
+</td>
+</tr>
+</table>
 
 > "I don't just write code. I build solutions, experiment with ideas, and turn imagination into reality."
 
