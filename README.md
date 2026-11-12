@@ -8,8 +8,8 @@
 <br/>
 
 <a href="https://github.com/MohammedRiyaz225"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github"/></a>
-<a href="https://linkedin.com/in/mohammed-riyaz-225"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
-<a href="mailto:riyazmohammed225@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/mohammed-riyaz-26/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+<a href="mailto:mohammedriyaz2250@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
 
 <br/>
 
