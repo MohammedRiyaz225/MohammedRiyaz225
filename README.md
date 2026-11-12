@@ -12,9 +12,6 @@
 <a href="mailto:mohammedriyaz2250@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail"/></a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=MohammedRiyaz225&label=PROFILE+VIEWS&color=14B8A6&style=flat-square" alt="Profile Views"/>
-
 </div>
 
 ---
