@@ -56,7 +56,7 @@ I'm a Computer Science student passionate about building technology that solves 
 <table>
 <tr>
 <td width="62%" valign="top">
-### ⚡ Quick Developer Snapshot
+⚡ Quick Developer Snapshot
 
 | Category | Details |
 |:---|:---|
